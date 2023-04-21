@@ -1,2 +1,2 @@
-print("Hey")
+
 import tkinter
